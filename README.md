@@ -1,2 +1,2 @@
 # stim-awesome
-Let people know that everything is on GitLab
+What you are looking for is now at https://gitlab.com/stim-awesome/stim-awesome
